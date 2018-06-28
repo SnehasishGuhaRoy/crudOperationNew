@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "sdd",
+      "color": "hira",
+      "id": 3
+    },
+    {
+      "name": "t-shirts",
+      "color": "green",
+      "id": 4
+    },
+    {
+      "name": "samik",
+      "color": "black",
+      "id": 6
+    },
+    {
+      "name": "rounded t-shirt",
+      "color": "green",
+      "id": 7
+    }
+  ]
+}
